@@ -4,6 +4,7 @@ const App = () => {
   return (
     <>
       <h1>Start Instaa APp</h1>
+      <h1>my App</h1>
     </>
   );
 };
